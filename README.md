@@ -46,9 +46,6 @@ An interactive AI-driven simulation for battery materials research. This project
 ## Contributions  
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## License  
-This project is licensed under the MIT License.
 
----
-🚀 *Stay tuned for updates as we develop AI-powered insights into battery materials!*
+ *Stay tuned for updates as we develop AI-powered insights into battery materials!*
 
