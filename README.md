@@ -1,6 +1,6 @@
 # battery-visualization
 # A Walk Into a Live Battery 🔋  
-•	![AI-Powered Battery]
+•	![AI-Powered Battery] (https://github.com/Kpastam/battery-visualization/blob/main/image.webp)
  
 
 
