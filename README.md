@@ -1,6 +1,6 @@
 # battery-visualization
 # A Walk Into a Live Battery 🔋  
-![AI-Powered Battery](https://raw.githubusercontent.com/Kpastam/battery-visualization/main/DALL%E2%80%A42025-03-10%2012.08.31%20-%20A%20futuristic%20AI-powered%20battery%20with%20glowing%20neural%2[...]
+
 
 ## Overview  
 An interactive AI-driven simulation for battery materials research. This project combines **machine learning, atomic-scale simulations, and WebGL/Unity-based visualization** to explore battery materials at a fundamental level.
